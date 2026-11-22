@@ -1,0 +1,8 @@
+round  0: flow 1   4.0  flow 2  30.0  gap  26.0
+round  1: flow 1   5.0  flow 2  31.0  gap  26.0
+round  5: flow 1   4.0  flow 2  17.0  gap  13.0
+round 10: flow 1   9.0  flow 2  22.0  gap  13.0
+round 20: flow 1  11.0  flow 2  17.5  gap   6.5
+round 40: flow 1  11.2  flow 2  12.9  gap   1.6
+round 60: flow 1   9.8  flow 2  10.2  gap   0.4
+round 80: flow 1  18.9  flow 2  19.1  gap   0.2
